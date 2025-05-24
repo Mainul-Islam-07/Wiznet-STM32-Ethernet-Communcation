@@ -46,8 +46,8 @@
 									<listOptionValue builtIn="false" value="../Drivers/STM32F1xx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Mainul Islam\Documents\STM_32_Workspaces\Workspace_2\Wiznet_Simple_web\Wiznet\Inc&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\Mainul Islam\Documents\STM_32_Workspaces\Workspace_2\Wiznet_Simple_web\Polling\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\User\Documents\Github_Mainul\Wiznet-STM32-Ethernet-Communcation\Code_Files\Polling\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\User\Documents\Github_Mainul\Wiznet-STM32-Ethernet-Communcation\Code_Files\Wiznet\Inc&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1785575660" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -74,10 +74,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Polling"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Wiznet"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
